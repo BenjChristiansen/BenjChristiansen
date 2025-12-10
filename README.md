@@ -70,8 +70,8 @@ Front-end development feels like the right fit — and I’m building toward a r
 
 ## 🌐 Connect With Me  
 📫 Email: benjchristiansen@gmail.com
-💼 LinkedIn: *(coming soon)*  
-🌎 Portfolio site: *(coming soon)*
+💼 LinkedIn: linkedin/in/benjchristiansen 
+🌎 Portfolio site: benjchristiansen.com
 
 ---
 
