@@ -13,7 +13,7 @@ I’m now channeling that into tech — with a growing focus on QA, accessibilit
 
 ## 🔧 Technologies & Tools
 **Languages:** HTML, CSS, JavaScript 
-**Testing & QA:** Cypress (Automated End-to-End Testing), Quality Control Testing
+**Testing & QA:** Learning Cypress (Automated End-to-End Testing), Quality Control Testing
 **Currently Learning:** Responsive design, DOM manipulation, accessibility best practices, Git/GitHub workflows, QA foundations 
 **Upcoming Goals:** React, and stronger JS project patterns  
 
